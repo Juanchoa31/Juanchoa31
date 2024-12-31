@@ -10,8 +10,8 @@ I am a computer engineering student, currently halfway through my degree. I am e
   - <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   - <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   
-- 👯 I’m looking forward to collaborate on open source projects.
+- I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
-- Outside tech, 💜I love streaming on twitch, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
-- 👾 Additionally, I create content about programming/technology on my social media, so feel free to check out my profile!
+- Outside tech, 💜I love 🎮 playing videogames, 🎵 listening to music.
+- 👾 Additionally, I want create projects about programming/technology on my GitHub.
 - 📫 Reach out to me at: <a href="juandavidzapata53@gmail.com">juandavidzapata53@gmail.com</a>
