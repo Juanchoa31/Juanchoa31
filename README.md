@@ -4,11 +4,11 @@
 
 ***About me***
 
-I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in back-end development, and I wish work as a software developer at a company that creates systems for any enterprises. I love to learn and build something new, productive, innovative and creative.
+I am a computer engineering student. I am expanding my knowledge in back-end development, and I wish work as a software developer at a company that creates systems for any enterprises. I love to learn and build something new, productive, innovative and creative.
 - 🌱 I’m currently learning...
   
   - <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  - <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  - <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black">
   
 - I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
