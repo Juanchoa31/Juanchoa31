@@ -19,3 +19,6 @@ I am a software engineer student. I am expanding my knowledge in back-end develo
 - Outside tech, 💜I love 🎮 playing videogames, 🎵 listening to music.
 - 👾 Additionally, I want create projects about programming/technology on my GitHub.
 - 📫 Reach out to me at: <a href="juandavidzapata53@gmail.com">juandavidzapata53@gmail.com</a>
+
+🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Juanchoa31&theme=algolia" alt="candida18"  /></p>
