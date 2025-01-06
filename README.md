@@ -14,10 +14,10 @@ I am a software engineer student. I am expanding my knowledge in back-end develo
   - Java
   - Python
   
-- I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help<br>
-- Outside tech, 💜I love 🎮 playing videogames, 🎵 listening to music.
-- 👾 Additionally, I want create projects about programming/technology on my GitHub.
+- 🔍I’m looking forward to collaborate on open source projects.
+- 🙏🏼 Ask me about anything, I am happy to help<br>
+- 📤Outside tech, 💜I love 🎮 playing videogames, 🎵 listening to music.
+- 👾 Additionally, I want to create programming projects and showcase them on my GitHub for community use.
 - 📫 Reach out to me at: <a href="juandavidzapata53@gmail.com">juandavidzapata53@gmail.com</a>
 
 🔥 Streak Stats
