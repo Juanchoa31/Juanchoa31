@@ -20,5 +20,3 @@ I am a software engineer student. I am expanding my knowledge in back-end develo
 - 👾 Additionally, I want to create programming projects and showcase them on my GitHub for community use.
 - 📫 Reach out to me at: <a href="juandavidzapata53@gmail.com">juandavidzapata53@gmail.com</a>
 
-🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Juanchoa31&theme=algolia" alt="candida18"  /></p>
